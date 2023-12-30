@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 0.4s;
+}
+
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+}
+
+.header{
+    background-color: rgb(140, 177, 245);
+    min-width: 20rem;
+    max-width: 40rem;
+    width: 75%;
+    border-radius: 1rem;
+}
+
+.btn{
+    background-color: white;
+    width: 70%;
+    max-width: 38rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn:hover{
+    background-color: rgb(182, 236, 245);
+    cursor: pointer;
+    transform: scale(1.09);
+}
+
+#category{
+    display: flex;
+    text-align: start;
+    margin: 1rem 0rem 0rem 1rem;
+    font-size: 1.05rem;
+}
+
+#question{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin: 1rem;
+}
+
+.img{
+    object-fit: cover;
+    height: 20rem;
+    width:  95%;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.head{
+    background-color: rgb(18, 151, 118);
+    height: 7rem;
+}
+
+.headh1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+.foot{
+    bottom: 0;
+    position: absolute;
+    height: 5rem;
+    background-color: rgb(18, 151, 118);
+    width: 100%;
+}
+
+.containerh3foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#btnStart{
+    color: green;
+}
+
+#btnStart:hover{
+    background-color: rgb(95, 255, 156);
+}
+
+.containerMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 60vh;
+}

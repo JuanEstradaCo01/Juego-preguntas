@@ -1,0 +1,233 @@
+[
+    {
+        "id": 0,
+        "category": "",
+        "question": "",
+        "correctAnswer": "",
+        "failAnswer1": "",
+        "failAnswer2": "",
+        "failAnswer3": "",
+        "img": "",
+        "resolved": false
+    },
+    {
+        "id": 1,
+        "category": "Arte",
+        "question": "¿Quién pintó la ultima cena?",
+        "correctAnswer": "Leonardo DaVinci",
+        "failAnswer1": "Miguel Angel",
+        "failAnswer2": "Napoleon Bonaparte",
+        "failAnswer3": "Pablo Picasso",
+        "img": "https://cdn.pixabay.com/photo/2020/04/03/03/31/last-supper-4997322_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 2,
+        "category": "Espacio",
+        "question": "¿Que planeta tiene mas gravedad en nuestro sistema solar?",
+        "correctAnswer": "Júpiter",
+        "failAnswer1": "Saturno",
+        "failAnswer2": "Marte",
+        "failAnswer3": "Neptuno",
+        "img": "https://cdn.pixabay.com/photo/2011/12/14/12/23/solar-system-11111_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 3,
+        "category": "Historia",
+        "question": "¿Cuándo acabó la II Guerra Mundial?",
+        "correctAnswer": "En 1945",
+        "failAnswer1": "En 1930",
+        "failAnswer2": "En 1950",
+        "failAnswer3": "En 1916",
+        "img": "https://cdn.pixabay.com/photo/2021/02/02/15/55/soldier-5974458_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 4,
+        "category": "Historia",
+        "question": "¿En qué país se usó la primera bomba atómica?",
+        "correctAnswer": "En Japón (Hiroshima)",
+        "failAnswer1": "En Alemania (Berlin)",
+        "failAnswer2": "En Rusia (Moscú)",
+        "failAnswer3": "En Inglaterra (Londres)",
+        "img": "https://cdn.pixabay.com/photo/2023/06/12/13/36/ai-generated-8058512_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 5,
+        "category": "Deportes",
+        "question": "¿Quién es el máximo goleador de la historia del fútbol?",
+        "correctAnswer": "Cristiano Ronaldo",
+        "failAnswer1": "Leonel Messi",
+        "failAnswer2": "Falcao",
+        "failAnswer3": "Karim Benzema",
+        "img": "https://cdn.pixabay.com/photo/2014/02/03/16/51/football-257489_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 6,
+        "category": "Musica",
+        "question": "¿Cuántas cuerdas tiene un violín?",
+        "correctAnswer": "4",
+        "failAnswer1": "5",
+        "failAnswer2": "3",
+        "failAnswer3": "7",
+        "img": "https://cdn.pixabay.com/photo/2012/04/15/20/47/violin-35272_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 7,
+        "category": "Deportes",
+        "question": "¿Qué selección ha ganado más Copas Mundiales de Fútbol?",
+        "correctAnswer": "Brasil",
+        "failAnswer1": "Alemania",
+        "failAnswer2": "Argentina",
+        "failAnswer3": "Italia",
+        "img": "https://cdn.pixabay.com/photo/2015/09/28/08/07/map-961700_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 8,
+        "category": "Literatura",
+        "question": "¿Quién escribió 'El Quijote'?",
+        "correctAnswer": "Miguel de Cervantes",
+        "failAnswer1": "GABO",
+        "failAnswer2": "Paulo Coelho",
+        "failAnswer3": "William Shakespeare",
+        "img": "https://cdn.pixabay.com/photo/2019/11/04/10/15/book-4600757_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 9,
+        "category": "Series",
+        "question": "¿Qué familia vive en la ciudad de Springfield?",
+        "correctAnswer": "Los Simpsons",
+        "failAnswer1": "Los locos Adams",
+        "failAnswer2": "Los Picapiedra",
+        "failAnswer3": "Los Padrinos magicos",
+        "img": "https://cdn.pixabay.com/photo/2018/12/10/16/22/city-3867295_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 10,
+        "category": "Deportes",
+        "question": "¿Cuál es el deporte más practicado del mundo?",
+        "correctAnswer": "La natación",
+        "failAnswer1": "El futbol",
+        "failAnswer2": "El tenis",
+        "failAnswer3": "El beisbol",
+        "img": "https://cdn.pixabay.com/photo/2013/07/13/12/32/pictograms-159824_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 11,
+        "category": "Cine",
+        "question": "¿Cuál es la película más taquillera de la historia?",
+        "correctAnswer": "Avatar",
+        "failAnswer1": "Titanic",
+        "failAnswer2": "Rapido y furioso",
+        "failAnswer3": "La Purga",
+        "img": "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 12,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cuántos huesos hay en el cuerpo humano (adulto)?",
+        "correctAnswer": "206 huesos",
+        "failAnswer1": "212 huesos",
+        "failAnswer2": "200 huesos",
+        "failAnswer3": "150 huesos",
+        "img": "https://cdn.pixabay.com/photo/2021/03/09/13/58/anatomy-6081933_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 13,
+        "category": "Deportes",
+        "question": "¿Cuántos jugadores hay en un equipo de béisbol?",
+        "correctAnswer": "9",
+        "failAnswer1": "11",
+        "failAnswer2": "7",
+        "failAnswer3": "13",
+        "img": "https://cdn.pixabay.com/photo/2012/04/13/00/37/baseball-31342_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 14,
+        "category": "Literatura",
+        "question": "¿En qué ciudad vivían Romeo y Julieta?",
+        "correctAnswer": "Verona",
+        "failAnswer1": "Roma",
+        "failAnswer2": "Venecia",
+        "failAnswer3": "Madrid",
+        "img": "https://cdn.pixabay.com/photo/2016/11/19/12/25/art-1839006_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 15,
+        "category": "Series",
+        "question": "¿En qué serie de Netflix los protagonistas tenían que superar pruebas para seguir con vida?",
+        "correctAnswer": "El juego del calamar",
+        "failAnswer1": "The Walking Dead",
+        "failAnswer2": "Stranger Things",
+        "failAnswer3": "The 100",
+        "img": "https://cdn.pixabay.com/photo/2017/03/08/19/53/stone-2127669_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 16,
+        "category": "Cine",
+        "question": "¿Qué actor interpreta al personaje de Thor en el Universo Cinematográfico de Marvel?",
+        "correctAnswer": "Chris Hemsworth",
+        "failAnswer1": "Chris Evans",
+        "failAnswer2": "Robert Downey",
+        "failAnswer3": "Vin Diesel",
+        "img": "https://cdn.pixabay.com/photo/2014/07/23/02/41/lightning-399853_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 17,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cuántos elementos hay en la Tabla Periódica?",
+        "correctAnswer": "118",
+        "failAnswer1": "110",
+        "failAnswer2": "100",
+        "failAnswer3": "120",
+        "img": "https://cdn.pixabay.com/photo/2016/04/01/12/07/biology-1300535_1280.png",
+        "resolved": false
+    },
+    {
+        "id": 18,
+        "category": "Cine",
+        "question": "¿Cómo se llama la mujer de Shrek?",
+        "correctAnswer": "Fiona",
+        "failAnswer1": "Burro",
+        "failAnswer2": "Esperanzita",
+        "failAnswer3": "No tiene",
+        "img": "https://cdn.pixabay.com/photo/2020/05/15/03/47/fiona-5172070_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 19,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Qué órgano del cuerpo consume más energía?",
+        "correctAnswer": "El cerebro",
+        "failAnswer1": "Los pulmones",
+        "failAnswer2": "El corazon",
+        "failAnswer3": "El higado",
+        "img": "https://cdn.pixabay.com/photo/2021/03/09/13/58/anatomy-6081933_1280.jpg",
+        "resolved": false
+    },
+    {
+        "id": 20,
+        "category": "Cine",
+        "question": "¿Quién interpretó a Eduardo Manostijeras?",
+        "correctAnswer": "Johnny Depp",
+        "failAnswer1": "Leonardo Dicaprio",
+        "failAnswer2": "Vin diesel",
+        "failAnswer3": "La roca",
+        "img": "https://cdn.pixabay.com/photo/2016/11/03/11/36/scissor-1794088_1280.jpg",
+        "resolved": false
+    }
+]
