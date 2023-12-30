@@ -16,6 +16,8 @@ function questionActual(number){
 
     //Agrego toda la informacion de la pregunta:
     document.getElementById("category").innerHTML = question.category
+    document.getElementById("countQuestion").innerHTML = question.id
+    document.getElementById("totalQuestions").innerHTML = questionsParse.length - 1
     document.getElementById("question").innerHTML = question.question
     document.getElementById("img").setAttribute("src", question.img)
     answers(question)
