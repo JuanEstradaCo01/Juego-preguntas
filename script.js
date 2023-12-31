@@ -3,7 +3,7 @@ const questions = readText("questions.json")
 const questionsParse = JSON.parse(questions)
 let question 
 let responses
-let score = []
+let score = 0
 const btns = [
     document.getElementById("btn1"),
     document.getElementById("btn2"),
@@ -14,6 +14,17 @@ const btns = [
 function questionActual(number){
     question = questionsParse[number]
 
+    if(question === undefined){
+        Swal.fire({
+            title: "<strong>Juego terminado</strong>",
+            icon: "success",
+            html: `
+              <p>Haz completado todas las preguntas</p>
+            `,
+            showConfirmButton: false,
+            footer: `<a href="index.html"><button type="button" class="btn btn-warning">Ir al inicio</button></a>`
+          });
+    }
     //Agrego toda la informacion de la pregunta:
     document.getElementById("category").innerHTML = question.category
     document.getElementById("countQuestion").innerHTML = question.id
@@ -66,25 +77,27 @@ function pressBtn(index){
     if(responses[index] === question.correctAnswer){
         Swal.fire({
             icon: "success",
-            title: "¡Correcto!"
+            title: "¡Correcto!",
+            confirmButtonText: "Siguiente"
         });
 
         btns[index].style.background =  "green"
 
         setTimeout(() => {
             resetBtns()
-        }, 2000);
+        }, 2500);
     }else{
         Swal.fire({
             icon: "error",
             title: "Incorrecto",
-            text: `La respuesta correcta es: '${question.correctAnswer}'`
+            text: `La respuesta correcta es: '${question.correctAnswer}'`,
+            confirmButtonText: "Siguiente"
         });
         btns[index].style.background =  "red"
 
         setTimeout(() => {
             resetBtns()
-        }, 2000);
+        }, 2500);
     }
 }
 

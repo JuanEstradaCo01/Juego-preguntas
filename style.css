@@ -127,3 +127,7 @@ body{
     margin: 1rem 0rem 0rem 1rem;
     font-size: 1.05rem;
 }
+
+h1{
+    font-family: 'Single Day', cursive;
+}
