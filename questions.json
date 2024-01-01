@@ -7,8 +7,7 @@
         "failAnswer1": "",
         "failAnswer2": "",
         "failAnswer3": "",
-        "img": "",
-        "resolved": false
+        "img": ""
     },
     {
         "id": 1,
@@ -18,8 +17,7 @@
         "failAnswer1": "Miguel Angel",
         "failAnswer2": "Napoleon Bonaparte",
         "failAnswer3": "Pablo Picasso",
-        "img": "https://cdn.pixabay.com/photo/2020/04/03/03/31/last-supper-4997322_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2020/04/03/03/31/last-supper-4997322_1280.png"
     },
     {
         "id": 2,
@@ -29,8 +27,7 @@
         "failAnswer1": "Saturno",
         "failAnswer2": "Marte",
         "failAnswer3": "Neptuno",
-        "img": "https://cdn.pixabay.com/photo/2011/12/14/12/23/solar-system-11111_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2011/12/14/12/23/solar-system-11111_1280.jpg"
     },
     {
         "id": 3,
@@ -40,8 +37,7 @@
         "failAnswer1": "En 1930",
         "failAnswer2": "En 1950",
         "failAnswer3": "En 1916",
-        "img": "https://cdn.pixabay.com/photo/2021/02/02/15/55/soldier-5974458_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2021/02/02/15/55/soldier-5974458_1280.jpg"
     },
     {
         "id": 4,
@@ -51,8 +47,7 @@
         "failAnswer1": "En Alemania (Berlin)",
         "failAnswer2": "En Rusia (Moscú)",
         "failAnswer3": "En Inglaterra (Londres)",
-        "img": "https://cdn.pixabay.com/photo/2023/06/12/13/36/ai-generated-8058512_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2023/06/12/13/36/ai-generated-8058512_1280.jpg"
     },
     {
         "id": 5,
@@ -62,8 +57,7 @@
         "failAnswer1": "Leonel Messi",
         "failAnswer2": "Falcao",
         "failAnswer3": "Karim Benzema",
-        "img": "https://cdn.pixabay.com/photo/2014/02/03/16/51/football-257489_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2014/02/03/16/51/football-257489_1280.png"
     },
     {
         "id": 6,
@@ -73,8 +67,7 @@
         "failAnswer1": "5",
         "failAnswer2": "3",
         "failAnswer3": "7",
-        "img": "https://cdn.pixabay.com/photo/2012/04/15/20/47/violin-35272_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2012/04/15/20/47/violin-35272_1280.png"
     },
     {
         "id": 7,
@@ -84,8 +77,7 @@
         "failAnswer1": "Alemania",
         "failAnswer2": "Argentina",
         "failAnswer3": "Italia",
-        "img": "https://cdn.pixabay.com/photo/2015/09/28/08/07/map-961700_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2015/09/28/08/07/map-961700_1280.png"
     },
     {
         "id": 8,
@@ -95,8 +87,7 @@
         "failAnswer1": "GABO",
         "failAnswer2": "Paulo Coelho",
         "failAnswer3": "William Shakespeare",
-        "img": "https://cdn.pixabay.com/photo/2019/11/04/10/15/book-4600757_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2019/11/04/10/15/book-4600757_1280.jpg"
     },
     {
         "id": 9,
@@ -106,8 +97,7 @@
         "failAnswer1": "Los locos Adams",
         "failAnswer2": "Los Picapiedra",
         "failAnswer3": "Los Padrinos magicos",
-        "img": "https://cdn.pixabay.com/photo/2018/12/10/16/22/city-3867295_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2018/12/10/16/22/city-3867295_1280.png"
     },
     {
         "id": 10,
@@ -117,8 +107,7 @@
         "failAnswer1": "El futbol",
         "failAnswer2": "El tenis",
         "failAnswer3": "El beisbol",
-        "img": "https://cdn.pixabay.com/photo/2013/07/13/12/32/pictograms-159824_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2013/07/13/12/32/pictograms-159824_1280.png"
     },
     {
         "id": 11,
@@ -128,8 +117,7 @@
         "failAnswer1": "Titanic",
         "failAnswer2": "Rapido y furioso",
         "failAnswer3": "La Purga",
-        "img": "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_1280.jpg"
     },
     {
         "id": 12,
@@ -139,8 +127,7 @@
         "failAnswer1": "212 huesos",
         "failAnswer2": "200 huesos",
         "failAnswer3": "150 huesos",
-        "img": "https://cdn.pixabay.com/photo/2021/03/09/13/58/anatomy-6081933_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2021/03/09/13/58/anatomy-6081933_1280.jpg"
     },
     {
         "id": 13,
@@ -150,8 +137,7 @@
         "failAnswer1": "11",
         "failAnswer2": "7",
         "failAnswer3": "13",
-        "img": "https://cdn.pixabay.com/photo/2012/04/13/00/37/baseball-31342_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2012/04/13/00/37/baseball-31342_1280.png"
     },
     {
         "id": 14,
@@ -161,8 +147,7 @@
         "failAnswer1": "Roma",
         "failAnswer2": "Venecia",
         "failAnswer3": "Madrid",
-        "img": "https://cdn.pixabay.com/photo/2016/11/19/12/25/art-1839006_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2016/11/19/12/25/art-1839006_1280.jpg"
     },
     {
         "id": 15,
@@ -172,8 +157,7 @@
         "failAnswer1": "The Walking Dead",
         "failAnswer2": "Stranger Things",
         "failAnswer3": "The 100",
-        "img": "https://cdn.pixabay.com/photo/2017/03/08/19/53/stone-2127669_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2017/03/08/19/53/stone-2127669_1280.png"
     },
     {
         "id": 16,
@@ -183,8 +167,7 @@
         "failAnswer1": "Chris Evans",
         "failAnswer2": "Robert Downey",
         "failAnswer3": "Vin Diesel",
-        "img": "https://cdn.pixabay.com/photo/2014/07/23/02/41/lightning-399853_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2014/07/23/02/41/lightning-399853_1280.jpg"
     },
     {
         "id": 17,
@@ -194,8 +177,7 @@
         "failAnswer1": "110",
         "failAnswer2": "100",
         "failAnswer3": "120",
-        "img": "https://cdn.pixabay.com/photo/2016/04/01/12/07/biology-1300535_1280.png",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2016/04/01/12/07/biology-1300535_1280.png"
     },
     {
         "id": 18,
@@ -205,8 +187,7 @@
         "failAnswer1": "Burro",
         "failAnswer2": "Esperanzita",
         "failAnswer3": "No tiene",
-        "img": "https://cdn.pixabay.com/photo/2020/05/15/03/47/fiona-5172070_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2020/05/15/03/47/fiona-5172070_1280.jpg"
     },
     {
         "id": 19,
@@ -216,8 +197,7 @@
         "failAnswer1": "Los pulmones",
         "failAnswer2": "El corazon",
         "failAnswer3": "El higado",
-        "img": "https://cdn.pixabay.com/photo/2021/03/09/13/58/anatomy-6081933_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2021/03/09/13/58/anatomy-6081933_1280.jpg"
     },
     {
         "id": 20,
@@ -227,7 +207,6 @@
         "failAnswer1": "Leonardo Dicaprio",
         "failAnswer2": "Vin diesel",
         "failAnswer3": "La roca",
-        "img": "https://cdn.pixabay.com/photo/2016/11/03/11/36/scissor-1794088_1280.jpg",
-        "resolved": false
+        "img": "https://cdn.pixabay.com/photo/2016/11/03/11/36/scissor-1794088_1280.jpg"
     }
 ]

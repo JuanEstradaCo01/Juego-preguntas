@@ -1,19 +1,26 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="./imgs/question.jpg" type="image/x-icon">
+    <!--Google Fonts-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     <link rel="stylesheet" href="./style.css">
     <title>Juego de Preguntas</title>
 </head>
+
 <body>
 
     <div class="container">
         <div class="header">
             <div id="containerCategoryCount">
+                <div><a href="index.html"><i class="homeButton fa-solid fa-house"></i></a></div>
                 <div id="category" class="category"></div>
-                <div class="p"><p id="countQuestion"></p>/<p id="totalQuestions"></p></div>
+                <div class="p">
+                    <p id="countQuestion"></p>/<p id="totalQuestions"></p>
+                </div>
             </div>
             <div id="question" class="question"></div>
             <img id="img" src="" class="img">
@@ -25,7 +32,10 @@
         <div class="btn" id="btn4" onclick="pressBtn(3)"></div>
     </div>
     <script src="./script.js"></script>
+    <!--FontAwesome-->
+    <script src="https://kit.fontawesome.com/eef39b1d3b.js" crossorigin="anonymous"></script>
     <!--SweetAlert-->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
+
 </html>

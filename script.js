@@ -3,7 +3,7 @@ const questions = readText("questions.json")
 const questionsParse = JSON.parse(questions)
 let question 
 let responses
-let score = 0
+let score = []
 const btns = [
     document.getElementById("btn1"),
     document.getElementById("btn2"),
@@ -13,6 +13,8 @@ const btns = [
 
 function questionActual(number){
     question = questionsParse[number]
+    const totalPoints = score.length
+    const totalQuestions = questionsParse.length - 1
 
     if(question === undefined){
         Swal.fire({
@@ -20,9 +22,11 @@ function questionActual(number){
             icon: "success",
             html: `
               <p>Haz completado todas las preguntas</p>
+              <br>
+              <h2>Aciertos: ${totalPoints}/${totalQuestions}</h2>
             `,
             showConfirmButton: false,
-            footer: `<a href="index.html"><button type="button" class="btn btn-warning">Ir al inicio</button></a>`
+            footer: `<a href="index.html"><button type="button" class="btn btn-warning">Jugar de nuevo</button></a>`
           });
     }
     //Agrego toda la informacion de la pregunta:
@@ -44,7 +48,7 @@ function findQuestion(){
     const i = index + 1
     questionActual(i)
 }
-findQuestion()
+findQuestion();
 
 //Desordenar respuestas:
 function answers(question){
@@ -82,6 +86,10 @@ function pressBtn(index){
         });
 
         btns[index].style.background =  "green"
+
+        const point = score.length + 1
+
+        score.push(point)
 
         setTimeout(() => {
             resetBtns()
