@@ -44,17 +44,21 @@ body {
 }
 
 @media screen and (max-height: 820px) {
+    .img{
+        height: 15rem;
+    }
+}
+
+@media screen and (max-height: 725px) {
     .container{
         display: flex;
         flex-direction: row;
     }
     .buttons{
-        margin: -1rem;
-        width: 50%;
+        width: 37.5%;
     }
     .header{
         width: 50%;
-        margin-left: 1rem;
     }
 }
 
