@@ -1,16 +1,16 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     transition: all 0.4s;
 }
 
-body{
+body {
     background-color: beige;
     text-align: center;
 }
 
-.container{
+.container {
     width: 100%;
     height: 100%;
     display: flex;
@@ -20,17 +20,47 @@ body{
     position: absolute;
 }
 
-.header{
+.img {
+    object-fit: cover;
+    height: 20rem;
+    width: 95%;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.header {
     background-color: rgb(140, 177, 245);
-    min-width: 20rem;
     max-width: 40rem;
     width: 75%;
     border-radius: 1rem;
 }
 
-.btn{
+.buttons{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+@media screen and (max-height: 820px) {
+    .container{
+        display: flex;
+        flex-direction: row;
+    }
+    .buttons{
+        margin: -1rem;
+        width: 50%;
+    }
+    .header{
+        width: 50%;
+        margin-left: 1rem;
+    }
+}
+
+.btn {
     background-color: white;
-    width: 70%;
+    width: 75%;
     max-width: 38rem;
     padding: 1rem;
     margin: 1rem;
@@ -39,39 +69,31 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.btn:hover{
+.btn:hover {
     background-color: rgb(182, 236, 245);
     cursor: pointer;
     transform: scale(1.09);
 }
 
-#category{
+#category {
     display: flex;
     text-align: start;
     margin: 1rem 0rem 0rem 1rem;
     font-size: 1.05rem;
 }
 
-#question{
+#question {
     font-size: 1.25rem;
     font-weight: bolder;
     margin: 1rem;
 }
 
-.img{
-    object-fit: cover;
-    height: 20rem;
-    width:  95%;
-    margin-bottom: 1rem;
-    border-radius: 1rem;
-}
-
-.head{
+.head {
     background-color: rgb(18, 151, 118);
     height: 7rem;
 }
 
-.headh1{
+.headh1 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,7 +103,7 @@ body{
     font-weight: bolder;
 }
 
-.foot{
+.foot {
     bottom: 0;
     position: absolute;
     height: 5rem;
@@ -89,7 +111,7 @@ body{
     width: 100%;
 }
 
-.containerh3foot{
+.containerh3foot {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,15 +120,15 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#btnStart{
+#btnStart {
     color: green;
 }
 
-#btnStart:hover{
+#btnStart:hover {
     background-color: rgb(95, 255, 156);
 }
 
-.containerMain{
+.containerMain {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -115,12 +137,12 @@ body{
     height: 60vh;
 }
 
-#containerCategoryCount{
+#containerCategoryCount {
     display: flex;
     justify-content: space-around;
 }
 
-.p{
+.p {
     display: flex;
     flex-direction: row;
     text-align: start;
@@ -128,41 +150,41 @@ body{
     font-size: 1.05rem;
 }
 
-h1{
+h1 {
     font-family: 'Single Day', cursive;
     font-weight: bolder;
 }
 
-.h2{
+.h2 {
     font-size: 3rem;
     margin-bottom: 4rem;
     color: green;
     font-weight: bolder;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-#presentation{
+#presentation {
     font-weight: bold;
 }
 
-.homeButton{
+.homeButton {
     color: black;
     margin: 1rem 0rem 0rem 1rem;
     font-size: 1.3rem;
 }
 
-.homeButton:hover{
+.homeButton:hover {
     color: beige;
 }
 
-#btnFinal{
+#btnFinal {
     background-color: yellow;
     height: 1.5rem;
     height: 3rem;
     padding: 1rem;
 }
 
-#btnFinal:hover{
+#btnFinal:hover {
     cursor: pointer;
     transform: scale(1.09);
     background-color: rgb(167, 167, 65);
