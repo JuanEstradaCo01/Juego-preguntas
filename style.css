@@ -53,7 +53,7 @@ body{
 }
 
 #question{
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: bolder;
     margin: 1rem;
 }
@@ -153,4 +153,17 @@ h1{
 
 .homeButton:hover{
     color: beige;
+}
+
+#btnFinal{
+    background-color: yellow;
+    height: 1.5rem;
+    height: 3rem;
+    padding: 1rem;
+}
+
+#btnFinal:hover{
+    cursor: pointer;
+    transform: scale(1.09);
+    background-color: rgb(167, 167, 65);
 }

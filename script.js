@@ -26,7 +26,7 @@ function questionActual(number){
               <h2>Aciertos: ${totalPoints}/${totalQuestions}</h2>
             `,
             showConfirmButton: false,
-            footer: `<a href="index.html"><button type="button" class="btn btn-warning">Jugar de nuevo</button></a>`
+            footer: `<a href="index.html"><button id="btnFinal">Jugar de nuevo</button></a>`
           });
     }
     //Agrego toda la informacion de la pregunta:

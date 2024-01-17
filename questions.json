@@ -208,5 +208,305 @@
         "failAnswer2": "Vin diesel",
         "failAnswer3": "La roca",
         "img": "https://cdn.pixabay.com/photo/2016/11/03/11/36/scissor-1794088_1280.jpg"
+    },
+    {
+        "id": 21,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cuál es el lugar más frío de la tierra?",
+        "correctAnswer": "La Antártida",
+        "failAnswer1": "Bogotá",
+        "failAnswer2": "El nevado del Ruiz",
+        "failAnswer3": "Polo Sur",
+        "img": "https://cdn.pixabay.com/photo/2014/07/30/02/00/iceberg-404966_1280.jpg"
+    },
+    {
+        "id": 22,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cuál es el río más largo del mundo?",
+        "correctAnswer": "Amazonas",
+        "failAnswer1": "Nilo",
+        "failAnswer2": "Cauca",
+        "failAnswer3": "Rio Bogotá",
+        "img": "https://cdn.pixabay.com/photo/2015/03/18/09/31/prairie-679014_1280.jpg"
+    },
+    {
+        "id": 23,
+        "category": "Deportes",
+        "question": "¿Dónde se originaron los juegos olímpicos?",
+        "correctAnswer": "Grecia,Olimpia",
+        "failAnswer1": "Inglaterra,Londres",
+        "failAnswer2": "Japón,Tokio",
+        "failAnswer3": "España,Madrid",
+        "img": "https://cdn.pixabay.com/photo/2016/11/02/00/34/portland-1790136_1280.jpg"
+    },
+    {
+        "id": 24,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Qué tipo de animal es la ballena?",
+        "correctAnswer": "Mamifero",
+        "failAnswer1": "Oviparo",
+        "failAnswer2": "Viviparo",
+        "failAnswer3": "Invertebrado",
+        "img": "https://cdn.pixabay.com/photo/2016/01/03/00/09/whale-1118876_1280.jpg"
+    },
+    {
+        "id": 25,
+        "category": "Historia",
+        "question": "¿En qué país se encuentra la torre de Pisa?",
+        "correctAnswer": "Italia",
+        "failAnswer1": "España",
+        "failAnswer2": "Francia",
+        "failAnswer3": "Inglatera",
+        "img": "https://cdn.pixabay.com/photo/2016/11/23/00/44/arches-1851520_1280.jpg"
+    },
+    {
+        "id": 26,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cuál es el océano más grande?",
+        "correctAnswer": "El Océano Pacífico",
+        "failAnswer1": "El Océano Atlantico",
+        "failAnswer2": "El Océano Indico",
+        "failAnswer3": "El Océano Glacial Artico",
+        "img": "https://cdn.pixabay.com/photo/2016/11/29/04/19/ocean-1867285_1280.jpg"
+    },
+    {
+        "id": 27,
+        "category": "Historia",
+        "question": "¿En qué año llegó Cristóbal Colón a América?",
+        "correctAnswer": "1492",
+        "failAnswer1": "1500",
+        "failAnswer2": "1512",
+        "failAnswer3": "1350",
+        "img": "https://cdn.pixabay.com/photo/2016/08/03/19/56/earth-1567610_1280.jpg"
+    },
+    {
+        "id": 28,
+        "category": "Historia",
+        "question": "¿Cuál es el país más grande del mundo?",
+        "correctAnswer": "Rusia",
+        "failAnswer1": "Brasil",
+        "failAnswer2": "Estados Unidos",
+        "failAnswer3": "Canada",
+        "img": "https://cdn.pixabay.com/photo/2016/01/18/16/50/landscape-1146911_1280.jpg"
+    },
+    {
+        "id": 29,
+        "category": "Historia",
+        "question": "¿Dónde se encuentra la famosa Torre Eiffel?",
+        "correctAnswer": "Francia,París",
+        "failAnswer1": "Italia,Roma",
+        "failAnswer2": "España,Madrid",
+        "failAnswer3": "Inglaterra,Londres",
+        "img": "https://cdn.pixabay.com/photo/2015/10/06/18/26/eiffel-tower-975004_1280.jpg"
+    },
+    {
+        "id": 30,
+        "category": "Deportes",
+        "question": "¿Qué deporte practicaba Michael Jordan?",
+        "correctAnswer": "Baloncesto",
+        "failAnswer1": "Futbol",
+        "failAnswer2": "Voleibol",
+        "failAnswer3": "Tejo",
+        "img": "https://cdn.pixabay.com/photo/2013/07/13/12/32/pictograms-159824_1280.png"
+    },
+    {
+        "id": 31,
+        "category": "Matematicas",
+        "question": "Si 50 es el 100%, ¿cuánto es el 90%?",
+        "correctAnswer": "45",
+        "failAnswer1": "90",
+        "failAnswer2": "50",
+        "failAnswer3": "80",
+        "img": "https://cdn.pixabay.com/photo/2016/03/05/20/00/accountant-1238598_1280.jpg"
+    },
+    {
+        "id": 32,
+        "category": "Espacio",
+        "question": "¿Cuál es tercer planeta en el sistema solar?",
+        "correctAnswer": "Tierra",
+        "failAnswer1": "Venus",
+        "failAnswer2": "Jupites",
+        "failAnswer3": "Neptuno",
+        "img": "https://cdn.pixabay.com/photo/2017/08/21/17/31/planet-2666129_1280.jpg"
+    },
+    {
+        "id": 33,
+        "category": "Historia",
+        "question": "¿Qué país tiene forma de bota?",
+        "correctAnswer": "Italia",
+        "failAnswer1": "Francia",
+        "failAnswer2": "Brasil",
+        "failAnswer3": "Croacia",
+        "img": "https://cdn.pixabay.com/photo/2018/01/01/01/31/ankle-boots-3053473_1280.jpg"
+    },
+    {
+        "id": 34,
+        "category": "Historia",
+        "question": "¿Cuál es la moneda del Reino Unido?",
+        "correctAnswer": "La libra",
+        "failAnswer1": "El Euro",
+        "failAnswer2": "El Dolar",
+        "failAnswer3": "El Yen",
+        "img": "https://cdn.pixabay.com/photo/2023/01/19/10/24/castle-7728772_1280.jpg"
+    },
+    {
+        "id": 35,
+        "category": "Historia",
+        "question": "¿Cual es país más poblado de la Tierra?",
+        "correctAnswer": "China",
+        "failAnswer1": "India",
+        "failAnswer2": "Rusia",
+        "failAnswer3": "Brasil",
+        "img": "https://cdn.pixabay.com/photo/2019/06/14/08/02/figures-4273081_1280.jpg"
+    },
+    {
+        "id": 36,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cuántas patas tiene la araña?",
+        "correctAnswer": "8",
+        "failAnswer1": "10",
+        "failAnswer2": "4",
+        "failAnswer3": "6",
+        "img": "https://cdn.pixabay.com/photo/2019/08/29/19/48/cobweb-4439844_1280.jpg"
+    },
+    {
+        "id": 37,
+        "category": "Historia",
+        "question": "¿Cuál es la ciudad de los rascacielos?",
+        "correctAnswer": "Nueva York",
+        "failAnswer1": "Dubai",
+        "failAnswer2": "Tokio",
+        "failAnswer3": "Londres",
+        "img": "https://cdn.pixabay.com/photo/2016/11/29/03/56/architecture-1867194_1280.jpg"
+    },
+    {
+        "id": 38,
+        "category": "Historia",
+        "question": "¿En qué país se encuentra el famoso monumento Taj Mahal?",
+        "correctAnswer": "India",
+        "failAnswer1": "China",
+        "failAnswer2": "Indonesia",
+        "failAnswer3": "Italia",
+        "img": "https://cdn.pixabay.com/photo/2019/04/07/07/52/taj-mahal-4109110_1280.jpg"
+    },
+    {
+        "id": 39,
+        "category": "Historia",
+        "question": "¿Cuál fue el primer metal que empleó el hombre?",
+        "correctAnswer": "Cobre",
+        "failAnswer1": "Hierro",
+        "failAnswer2": "Cobalto",
+        "failAnswer3": "Plata",
+        "img": "https://cdn.pixabay.com/photo/2015/09/09/18/03/bullion-932218_1280.jpg"
+    },
+    {
+        "id": 40,
+        "category": "Deportes",
+        "question": "¿Quién ganó el mundial de futbol del 2014?",
+        "correctAnswer": "Alemania",
+        "failAnswer1": "Brasil",
+        "failAnswer2": "Argentina",
+        "failAnswer3": "España",
+        "img": "https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700_1280.jpg"
+    },
+    {
+        "id": 41,
+        "category": "Historia",
+        "question": "¿A qué país pertenece la ciudad de Varsovia?",
+        "correctAnswer": "Polonia",
+        "failAnswer1": "Francia",
+        "failAnswer2": "Inglaterra",
+        "failAnswer3": "indonesia",
+        "img": "https://cdn.pixabay.com/photo/2013/03/02/02/41/alley-89197_1280.jpg"
+    },
+    {
+        "id": 42,
+        "category": "Historia",
+        "question": "¿Cuál es la nacionalidad del escritor Pablo Neruda?",
+        "correctAnswer": "Chile",
+        "failAnswer1": "Colombia",
+        "failAnswer2": "Ecuador",
+        "failAnswer3": "Cuba",
+        "img": "https://cdn.pixabay.com/photo/2016/11/22/19/25/adult-1850177_1280.jpg"
+    },
+    {
+        "id": 43,
+        "category": "Cine",
+        "question": "¿A quién le crecía la nariz cuando mentía?",
+        "correctAnswer": "Pinocho",
+        "failAnswer1": "Tony Stark",
+        "failAnswer2": "Robin Hood",
+        "failAnswer3": "Barnie",
+        "img": "https://cdn.pixabay.com/photo/2016/07/25/14/06/woman-1540598_1280.jpg"
+    },
+    {
+        "id": 44,
+        "category": "Historia",
+        "question": "¿Quién traicionó a Jesús?",
+        "correctAnswer": "Judas",
+        "failAnswer1": "Juan",
+        "failAnswer2": "Pedro",
+        "failAnswer3": "Nadie",
+        "img": "https://cdn.pixabay.com/photo/2018/02/06/17/15/jesus-3135229_1280.jpg"
+    },
+    {
+        "id": 45,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cómo se llama el proceso por el cual las plantas obtienen alimento?",
+        "correctAnswer": "Fotosíntesis",
+        "failAnswer1": "Transpiración",
+        "failAnswer2": "Respiración",
+        "failAnswer3": "Digestión",
+        "img": "https://cdn.pixabay.com/photo/2020/05/31/04/36/investment-5241253_1280.jpg"
+    },
+    {
+        "id": 46,
+        "category": "Matematicas",
+        "question": "¿A cuánto equivale el número pi?",
+        "correctAnswer": "3,1416",
+        "failAnswer1": "3,1414",
+        "failAnswer2": "3,0000",
+        "failAnswer3": "4,1416",
+        "img": "https://cdn.pixabay.com/photo/2015/04/10/09/07/pi-715948_1280.jpg"
+    },
+    {
+        "id": 47,
+        "category": "Historia",
+        "question": "¿Cuál es el metal más caro del mundo?",
+        "correctAnswer": "Rodio",
+        "failAnswer1": "Oro",
+        "failAnswer2": "Platino",
+        "failAnswer3": "Titanio",
+        "img": "https://cdn.pixabay.com/photo/2015/09/09/18/03/bullion-932218_1280.jpg"
+    },
+    {
+        "id": 48,
+        "category": "Ciencia y naturaleza",
+        "question": "¿Cuántos corazones tienen los pulpos?",
+        "correctAnswer": "3",
+        "failAnswer1": "1",
+        "failAnswer2": "2",
+        "failAnswer3": "4",
+        "img": "https://cdn.pixabay.com/photo/2017/06/18/03/10/blue-ringed-octopus-2414408_1280.jpg"
+    },
+    {
+        "id": 49,
+        "category": "Historia",
+        "question": "¿De qué país es originario el café?",
+        "correctAnswer": "Africa,Etiopía",
+        "failAnswer1": "Europa,Italia",
+        "failAnswer2": "America,Colombia",
+        "failAnswer3": "Apareció nada mas...",
+        "img": "https://cdn.pixabay.com/photo/2021/12/07/19/41/roasted-coffee-6853956_1280.jpg"
+    },
+    {
+        "id": 50,
+        "category": "Historia",
+        "question": "¿En qué año llegó el ser humano a la Luna?",
+        "correctAnswer": "1969",
+        "failAnswer1": "1900",
+        "failAnswer2": "1950",
+        "failAnswer3": "2000",
+        "img": "https://cdn.pixabay.com/photo/2016/07/19/04/40/moon-1527501_1280.jpg"
     }
 ]
